@@ -1,0 +1,74 @@
+avrdude.exe: Version 6.3-20190619
+             Copyright (c) 2000-2005 Brian Dean, http://www.bdmicro.com/
+             Copyright (c) 2007-2014 Joerg Wunsch
+
+             System wide configuration file is "C:\Program Files (x86)\Arduino\hardware\tools\avr/etc/avrdude.conf"
+
+             Using Port                    : COM28
+             Using Programmer              : arduino
+             Overriding Baud Rate          : 115200
+avrdude.exe: ser_recv(): read error: Access is denied.
+
+
+avrdude.exe: stk500_recv(): programmer is not responding
+avrdude.exe: stk500_getsync() attempt 1 of 10: not in sync: resp=0x3a
+avrdude.exe: ser_send(): write error: sorry no info avail
+avrdude.exe: ser_recv(): read error: Access is denied.
+
+
+avrdude.exe: stk500_recv(): programmer is not responding
+avrdude.exe: stk500_getsync() attempt 2 of 10: not in sync: resp=0x3a
+avrdude.exe: ser_send(): write error: sorry no info avail
+avrdude.exe: ser_recv(): read error: Access is denied.
+
+
+avrdude.exe: stk500_recv(): programmer is not responding
+avrdude.exe: stk500_getsync() attempt 3 of 10: not in sync: resp=0x3a
+avrdude.exe: ser_send(): write error: sorry no info avail
+avrdude.exe: ser_recv(): read error: Access is denied.
+
+
+avrdude.exe: stk500_recv(): programmer is not responding
+avrdude.exe: stk500_getsync() attempt 4 of 10: not in sync: resp=0x3a
+avrdude.exe: ser_send(): write error: sorry no info avail
+avrdude.exe: ser_recv(): read error: Access is denied.
+
+
+avrdude.exe: stk500_recv(): programmer is not responding
+avrdude.exe: stk500_getsync() attempt 5 of 10: not in sync: resp=0x3a
+avrdude.exe: ser_send(): write error: sorry no info avail
+avrdude.exe: ser_recv(): read error: Access is denied.
+
+
+avrdude.exe: stk500_recv(): programmer is not responding
+avrdude.exe: stk500_getsync() attempt 6 of 10: not in sync: resp=0x3a
+avrdude.exe: ser_send(): write error: sorry no info avail
+avrdude.exe: ser_recv(): read error: Access is denied.
+
+
+avrdude.exe: stk500_recv(): programmer is not responding
+avrdude.exe: stk500_getsync() attempt 7 of 10: not in sync: resp=0x3a
+avrdude.exe: ser_send(): write error: sorry no info avail
+avrdude.exe: ser_recv(): read error: Access is denied.
+
+
+avrdude.exe: stk500_recv(): programmer is not responding
+avrdude.exe: stk500_getsync() attempt 8 of 10: not in sync: resp=0x3a
+avrdude.exe: ser_send(): write error: sorry no info avail
+avrdude.exe: ser_recv(): read error: Access is denied.
+
+
+avrdude.exe: stk500_recv(): programmer is not responding
+avrdude.exe: stk500_getsync() attempt 9 of 10: not in sync: resp=0x3a
+avrdude.exe: ser_send(): write error: sorry no info avail
+avrdude.exe: ser_recv(): read error: Access is denied.
+
+
+avrdude.exe: stk500_recv(): programmer is not responding
+avrdude.exe: stk500_getsync() attempt 10 of 10: not in sync: resp=0x3a
+avrdude.exe: ser_drain(): read error: Access is denied.
+
+
+
+avrdude.exe done.  Thank you.
+

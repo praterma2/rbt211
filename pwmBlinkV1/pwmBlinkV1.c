@@ -25,7 +25,7 @@ static inline void initTimer0(void) {
 	/* clock must be /64 or more for ISR timing */
 	TCCR0B |= (1 << CS01) | (1 << CS00);
 	/* both output compare interrupts */
-	TIMSK0 |= (1 << OCIE1B);
+	TIMSK0 |= (1 << OCIE0B);
 	TIMSK0 |= (1 << TOIE0);                 /* overflow interrupt enable */
 	sei();
 }
